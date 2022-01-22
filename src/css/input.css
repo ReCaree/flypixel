@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  ::-webkit-scrollbar {
+    @apply w-[5px] h-[8px]
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-yellow-400 shadow-sm;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-gray-800 transition-colors duration-500;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-gray-600
+  }
+}
