@@ -27,7 +27,7 @@ Run It
 npm run dev
 ```
 
-Go To [localhost:3000/public/index.html](localhost:3000/public/index.html)
+Go To [127.0.0.1:3000/public/index.html](127.0.0.1:3000/public/index.html)
 
 ## Linsence
 
