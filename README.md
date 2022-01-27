@@ -1,6 +1,7 @@
-# Flypixel Website
-
-Flypixel Website Made With TailwindCSS.
+<div align="center">
+    <h1>Flypixel Website</h1>
+    <p>Flypixel Website Made With TailwindCSS.</p>
+</div>
 
 ## Website
 
