@@ -21,11 +21,7 @@ install Dependency
 npm install
 ```
 
-Run It
-
-```bash
-npm run dev
-```
+Run Live Server With Live Server Extention.
 
 Go To [127.0.0.1:3000/public/index.html](127.0.0.1:3000/public/index.html)
 
