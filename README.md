@@ -2,7 +2,7 @@
 
 Flypixel Website Made With TailwindCSS.
 
-## Usage
+## Website
 
 Go To: [https://recaree.github.io/flypixel/public/index.html](https://recaree.github.io/flypixel/public/index.html)
 
