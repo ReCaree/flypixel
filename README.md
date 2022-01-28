@@ -6,21 +6,7 @@
 
 ## Self Host
 
-Clone Repo
-
-```bash
-git clone ReCaree/flypixel
-```
-
-install Dependency
-
-```bash
-npm install
-```
-
-Run Live Server With Live Server Extention.
-
-Go To [127.0.0.1:3000/public/index.html](127.0.0.1:3000/public/index.html)
+Open Index.html Fle
 
 ## Linsence
 
