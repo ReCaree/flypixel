@@ -4,10 +4,6 @@
     <p>Flypixel Website Made With <a href="https://tailwindcss.com" target="_blank">TailwindCSS</a>.</p>
 </div>
 
-## Self Host
-
-Open Index.html Fle
-
 ## Linsence
 
 [MIT](https://choosealicense.com/licenses/mit/)
