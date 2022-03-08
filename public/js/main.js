@@ -34,3 +34,16 @@ function toggleMobileMenuClose() {
 clipboard.addEventListener('click', function () {
   setClipboard('play.flypixel.tk');
 });
+
+document.addEventListener('keyup', (e) => {
+  e.preventDefault()
+  if (e.ctrlKey && e.key === "i") {
+    setClipboard('play.flypixel.tk');
+  } else if (e.ctrlKey && e.key === "c") {
+    Swal.fire({
+      icon: 'success',
+      title: '<strong>Just Test</strong>',
+      html: "<strong>Just Test</strong><u> Don't Expect To Much</u>",
+    });
+  }
+})
