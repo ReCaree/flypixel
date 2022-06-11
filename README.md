@@ -4,6 +4,6 @@
 <!--     <p>Flypixel Website Made With <a href="https://tailwindcss.com" target="_blank">TailwindCSS</a>.</p> -->
 </div>
 
-## Linsence
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
